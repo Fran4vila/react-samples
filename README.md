@@ -1,5 +1,3 @@
-# react-samples
-
 React.js Examples
 ========================
 
